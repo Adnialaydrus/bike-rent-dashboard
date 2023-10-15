@@ -12,3 +12,7 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit
 streamlit run dashboard.py
 ```
 
+## Link dashboard
+```
+https://bike-rent-dashboard-chjizjoccsqnuu9j47sz5u.streamlit.app/
+```
